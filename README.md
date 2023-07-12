@@ -9,14 +9,14 @@
 Python 3 уже должен быть установлен
 
 1. Клонируйте репозиторий с github - для этого выполните в консоли:  
-git clone https://github.com/oZerro/vacancy-parser.git
+git clone https://github.com/oZerro/django-orm2.git
 
 2. Создайте виртуальное окружение.  
 Для создания виртуального окружения:
 
 - Перейдите в директорию своего проекта.  
 ```
-cd vacancy-parser
+cd django-orm2
 ```
 
 - Выполните:
