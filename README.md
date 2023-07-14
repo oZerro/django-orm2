@@ -57,6 +57,11 @@ touch файл.txt
 6. Откройте файл **.env** в любом текстовом редакторе и добавьте ваши переменные окружения - сохраните.
 Содержание будет такое:
 ```
+DB_HOST='ваш DB_HOST'
+DB_PORT='ваш DB_PORT'
+DB_NAME='ваш DB_NAME'
+DB_USER='ваш DB_USER'
+DB_PASSWORD='ваш DB_PASSWORD'
 SECRET_KEY='ваш SECRET_KEY'
 ```
 
