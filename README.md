@@ -63,6 +63,9 @@ DB_NAME='ваш DB_NAME'
 DB_USER='ваш DB_USER'
 DB_PASSWORD='ваш DB_PASSWORD'
 SECRET_KEY='ваш SECRET_KEY'
+
+DEBUG=False
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 ```
 
 ## Как запустить
